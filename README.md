@@ -25,7 +25,7 @@ The following three shortest-path algorithms are implemented and compared:
 ⑬ Output route information and execution time  
 ⑭ Plot routes and locations on the map
 
-## Example Output
+## Example Output(ward class)
 <p align="center">
   <img src="map.png" width="400">
 </p>
