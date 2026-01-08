@@ -27,14 +27,14 @@ The following three shortest-path algorithms are implemented and compared:
 
 ## Example Output(ward class)
 <p align="center">
-  <img src="map.png" width="300">
+  <img src="images/map.png" width="300">
 </p>
 
 ##Result
 <p align="center">
-  <img src="table.png"width="600">
+  <img src="images/table.png"width="600">
 </p>
 <p align="center">
-  <img src="graph.png"width="600">
+  <img src="images/graph.png"width="600">
 </p>
 
