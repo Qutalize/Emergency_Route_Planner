@@ -1,10 +1,10 @@
 # Emergency_Route_Planner
 ## Overview
-This project was developed as an algorithm assignment using Google Colaboratory.
-Given a specified point on a map, the system identifies the nearest fire station and the nearest emergency medical hospital capable of handling critical patients. It then computes and visualizes the shortest route between these locations along with the estimated travel time.
+This project is developed as an algorithm assignment in August 2025.
+Given a specified point on a map, the system identifies the nearest fire station and the nearest emergency medical hospital capable of handling critical patients. It computes and visualizes the shortest route between these locations along with the estimated travel time.
 Due to the high computational cost of map rendering, the implementation is limited to a specific area in Kanagawa Prefecture.
-The system is built using OSMnx (https://github.com/gboeing/osmnx), a Python library for working with geospatial data from OpenStreetMap (OSM), a collaborative, crowd-sourced geographic information platform.
-The following three shortest-path algorithms were implemented and compared:
+The system is built using Google Colaboratory and OSMnx (https://github.com/gboeing/osmnx), a Python library for working with geospatial data from OpenStreetMap (OSM), a collaborative, crowd-sourced geographic information platform.
+The following three shortest-path algorithms are implemented and compared:
 1. Dijkstra’s algorithm (with a priority queue) 
 2. Bellman–Ford algorithm
 3. A* (A-star) algorithm
