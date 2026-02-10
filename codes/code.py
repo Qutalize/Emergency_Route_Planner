@@ -1,3 +1,6 @@
+!pip install matplotlib
+!pip install osmnx==2.0.3
+
 #① 
 import osmnx as ox  
 import geopandas as gpd 
